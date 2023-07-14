@@ -1,0 +1,30 @@
+
+p{
+    display: inline;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    
+    
+}
+
+.V{
+    color: green;
+}
+
+.r{
+    color: red;
+
+}
+.E{
+    text-decoration: underline overline ;
+}
+.D{
+    font-size: 50px;
+}
+.A{
+    color: blue;
+}
+.Q{
+    color: red;
+}

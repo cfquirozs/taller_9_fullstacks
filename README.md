@@ -7,6 +7,9 @@
 <h2>Punto 2: HTML</h2>
 <img src="./Public/screencapture-file-C-Users-Cristian-PC-Documents-Taller-Punto-1-3-index-html-2023-06-21-11_46_25.png" alt="html">
 <h2>Punto 3: CSS</h2>
-<a href="./Punto 1-3/index.html"> link de punto 3</a>
+<img src="./Public/screencapture-file-C-Users-Cristian-PC-Documents-Taller-Punto-1-3-index-html-2023-07-13-20_13_35.png" alt="html">
 <h2>Punto 4: Textos de colores</h2>
-<a href="./Punto 4/index.html"> link de punto 3</a>
+<img src="./Public/punto4.png" alt="html">
+<h2>Punto 4: Textos de diferentes estilos</h2>
+<img src="./Public/punto5.png" alt="html">
+
