@@ -12,6 +12,7 @@
 <img src="./Public/punto4.png" alt="html">
 <h2>Punto 5: Textos de diferentes estilos</h2>
 <img src="./Public/punto5.png" alt="html">
-<h2>Punto 6: Textos de diferentes estilos</h2>
+<h2>Punto 6: link and hover</h2>
 <img src="./Public/punto 6.png" alt="html">
-
+<h2>Punto 7: </h2>
+<img src="./Public/punto 7" alt="html">
