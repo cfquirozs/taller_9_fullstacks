@@ -1,0 +1,13 @@
+#Section2{
+    padding: 20px 180px;
+    background: #ED80FD26;
+}
+.Section2__info{
+    display: flex;
+    gap: 35px;
+    margin: 70px 0px;
+
+}
+.sub-pink{
+    color: #ED80FD;
+}
