@@ -1,0 +1,19 @@
+table{
+    background-color: yellow;
+    border-style: dotted #000;
+    border-bottom: dotted red;
+}
+
+td{
+    border-style: dotted;
+    border-bottom: none;
+}
+th{
+    border-style: dotted;
+    border-bottom: none;
+    color: red;
+    border-color: #000;
+}
+.I{
+    border-right: none;
+}

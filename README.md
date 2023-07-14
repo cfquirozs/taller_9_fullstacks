@@ -14,5 +14,7 @@
 <img src="./Public/punto5.png" alt="html">
 <h2>Punto 6: link and hover</h2>
 <img src="./Public/punto 6.png" alt="html">
-<h2>Punto 7: </h2>
+<h2>Punto 7 y 8: </h2>
 <img src="./Public/punto 7" alt="html">
+<h2>Punto 6: link and hover</h2>
+<img src="./Public/Punto 9.png" alt="html">
