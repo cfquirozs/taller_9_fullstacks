@@ -10,6 +10,8 @@
 <img src="./Public/screencapture-file-C-Users-Cristian-PC-Documents-Taller-Punto-1-3-index-html-2023-07-13-20_13_35.png" alt="html">
 <h2>Punto 4: Textos de colores</h2>
 <img src="./Public/punto4.png" alt="html">
-<h2>Punto 4: Textos de diferentes estilos</h2>
+<h2>Punto 5: Textos de diferentes estilos</h2>
 <img src="./Public/punto5.png" alt="html">
+<h2>Punto 6: Textos de diferentes estilos</h2>
+<img src="./Public/punto 6.png" alt="html">
 

@@ -1,0 +1,15 @@
+#main{
+    
+    justify-content: center;
+    display: list-item;
+}
+
+.normal{
+    color: yellow;
+    font-size: 20px;
+
+}
+
+a:hover{
+    background-color: blueviolet;
+}
